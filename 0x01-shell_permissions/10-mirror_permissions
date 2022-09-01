@@ -1,2 +1,1 @@
-#!/bin/bash
-chmod --reference=olleh hello
+#!/bin/bash\nch -e mod --reference=oll--reference=olleh hello
