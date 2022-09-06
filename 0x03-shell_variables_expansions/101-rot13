@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $0 | rot13
+echo -e $0 | rot13
