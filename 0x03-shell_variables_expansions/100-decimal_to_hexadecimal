@@ -1,2 +1,2 @@
 #!/bin/bash
-echo  $DECIMAL | obase-16
+echo -n $DECIMAL | od -A n -t x1
