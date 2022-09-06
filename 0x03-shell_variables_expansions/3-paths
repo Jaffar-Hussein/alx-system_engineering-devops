@@ -1,0 +1,1 @@
+o $PATH | tr -s ':' '\n' | wc -l
